@@ -9,4 +9,45 @@ Welcome to 2020INE,
 O objetivo é auxiliar `2020` mulheres a entrarem ou permanecerem na área, criando durante o percurso uma comunidade de apoio e incentivando a cultura de tutoria.
 
 
-Porém sabemos, 2020 is not enought.
+Porém sabemos, *2020 is not enought*.
+
+______
+
+## Como participar?
+
+A "inscrição" para o projeto é feita aqui mesmo, via Git, e você só precisa fornecer seu nome completo e umas palavras sobre porque quer participar e o que deseja aprender, isso ajuda mais pessoas que compartilhem seus motivos a chegarem até aqui via buscas e nos mantém informados sobre as motivações de quem participa.
+
+A inscrição funciona como um "tutorial de jogos", onde ensinamos o funcionamento básico e pedimos que você utilize isso para chegar mais adiante.
+Pra quem já conhece Git é bem fácil e pra quem nunca ouviu falar é um bom desafio (satisfatório, garantimos).
+
+
+**Você encontra o guia para inscrição [aqui][guiaInscricao].**
+
+
+## Quem pode participar?
+O projeto foi pensado para ajudar a diminuir os problemas enfrentados por mulheres ao ingressar na "área de TI", portanto a única condição necessária é que você faça parte deste grupo.
+
+
+## O que posso aprender?
+
+Qualquer assunto que esteja listado [aqui][topicosTutoria] ou que alguém da tutoria possa auxiliar, isto porque quando você fizer inscrição alguém do projeto lhe receberá como aprendiz, e para isto é necessário que tenha conhecimento no assunto.
+Via de regra nosso projeto auxilia no aprendizado de Programação, com **algoritmos e linguagem Python**. Porém **assuntos mais avançados serão adicionados com o tempo**, assim que a comunidade crescer.
+
+## Existe algum tipo de pagamento pela participação?
+
+Sim e não. O programa **não cobra dinheiro** em nenhum momento. 
+O que **incentivamos** é que ao finalizar um aprendizado tutorado você disponibilize [aqui][tutoriais] um pequeno tutorial sobre algum assunto ou processo que tenha aprendido e que permaneça na comunidade para, quando puder, ajudar outras pessoas.
+
+
+## Quem são as pessoas que fazem a tutoria no programa?
+
+Começamos com duas pessoas disponíveis para tutoria: [Alexandre R Gomes][gomesar] e [Fulana][fulana] <>, e com o crescimento da comunidade as tutoras serão listadas [aqui][listaTutoras].
+
+
+
+[guiaInscricao]: docs/inscricao.md
+[topicosTutoria]: docs/topicos.md
+[listaTutoras]: docs/tutoras.md
+[tutoriais]: 2020/
+[gomesar]: https://github.com/gomesar9
+[fulana]: https://github.com/fulana
